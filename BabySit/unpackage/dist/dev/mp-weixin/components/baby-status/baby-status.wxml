@@ -1,0 +1,1 @@
+<view class="data-v-b836f4d0"><view class="discri data-v-b836f4d0"><text class="time data-v-b836f4d0">{{item.time}}</text><text class="cry data-v-b836f4d0">{{item.cry}}</text><text class="kick data-v-b836f4d0">{{item.kick}}</text><text class="{{['fever','data-v-b836f4d0',item.fever=='✔'?'warn':'']}}">{{item.fever}}</text></view></view>

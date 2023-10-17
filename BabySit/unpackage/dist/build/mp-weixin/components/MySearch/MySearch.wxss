@@ -1,0 +1,1 @@
+.m-search-container{display:flex;flex-wrap:nowrap;height:60rpx;line-height:60rpx;margin:50rpx;margin-bottom:0}.input-container{flex-grow:1;border-radius:15rpx;display:flex;align-items:center;border-width:4rpx;margin-right:20rpx}.input-container input{margin-left:20rpx;width:88%}.left{padding:0 10rpx}.right{white-space:nowrap}

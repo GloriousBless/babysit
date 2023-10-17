@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/StartPage/StartPage",
+    "pages/user/user",
+    "pages/stastistics/stastistics",
+    "pages/Shopping/Shopping",
+    "pages/Square/Square",
+    "pages/Healty_diet/Healty_diet",
+    "pages/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#B9A7C2",
+    "selectedColor": "#6a60a9",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/StartPage/StartPage",
+        "iconPath": "static/tabBar/首页未选中.png",
+        "selectedIconPath": "static/tabBar/主页.png"
+      },
+      {
+        "text": "统计",
+        "pagePath": "pages/stastistics/stastistics",
+        "iconPath": "static/tabBar/统计未选中.png",
+        "selectedIconPath": "static/tabBar/统计.png"
+      },
+      {
+        "text": "商城",
+        "pagePath": "pages/Shopping/Shopping",
+        "iconPath": "static/tabBar/购物车未选中.png",
+        "selectedIconPath": "static/tabBar/购物车-fill.png"
+      },
+      {
+        "text": "广场",
+        "pagePath": "pages/Square/Square",
+        "iconPath": "static/tabBar/对话.png",
+        "selectedIconPath": "static/tabBar/对话框选中.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tabBar/个人中心.png",
+        "selectedIconPath": "static/tabBar/个人中心选中.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

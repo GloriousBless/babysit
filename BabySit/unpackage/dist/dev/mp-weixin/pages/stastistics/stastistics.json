@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "统计",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "qiun-data-charts": "/uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts",
+    "out-tempra": "/components/out-tempra/out-tempra",
+    "month-weight": "/components/month-weight/month-weight"
+  }
+}

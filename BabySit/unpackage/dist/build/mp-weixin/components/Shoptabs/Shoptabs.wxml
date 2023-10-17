@@ -1,0 +1,1 @@
+<view class="data-v-1c160dd6"><view class="tab_item data-v-1c160dd6"><image class="img data-v-1c160dd6" src="{{item1.img_url}}"></image><view class="char data-v-1c160dd6">{{item1.title}}</view></view></view>

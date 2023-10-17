@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "监测",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-switch": "/uview-ui/components/u-switch/u-switch",
+    "baby-status": "/components/baby-status/baby-status",
+    "quick-message": "/components/quick-message/quick-message"
+  }
+}

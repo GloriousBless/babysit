@@ -1,0 +1,1 @@
+<view class="data-v-f10d3af8"><view class="temperature data-v-f10d3af8"><text class="text data-v-f10d3af8">室外温度</text><view class="charts-box data-v-f10d3af8"><qiun-data-charts vue-id="67b36f02-1" type="line" opts="{{opts}}" chartData="{{chartData}}" class="data-v-f10d3af8" bind:__l="__l"></qiun-data-charts></view></view></view>

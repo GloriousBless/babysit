@@ -1,0 +1,1 @@
+<view class="temperature data-v-f265ecb8"><text class="text data-v-f265ecb8">宝宝体重变化</text><view class="charts-box data-v-f265ecb8"><qiun-data-charts vue-id="52d4abe2-1" type="area" opts="{{opts}}" chartData="{{chartData}}" class="data-v-f265ecb8" bind:__l="__l"></qiun-data-charts></view></view>

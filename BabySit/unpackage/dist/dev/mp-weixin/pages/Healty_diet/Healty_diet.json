@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "健康饮食",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-search": "/components/MySearch/MySearch",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "recommand": "/components/Recommand/Recommand"
+  }
+}
